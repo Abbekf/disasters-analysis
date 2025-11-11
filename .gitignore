@@ -1,3 +1,13 @@
+# Ignore everything
+*
+
+# Except these
+!main.ipynb
+!README.md
+!.gitignore
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
